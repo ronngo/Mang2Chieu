@@ -1,0 +1,13 @@
+D:\baitap\Mang2Chieu\bin\Debug\netcoreapp3.1\Mang2Chieu.exe
+D:\baitap\Mang2Chieu\bin\Debug\netcoreapp3.1\Mang2Chieu.deps.json
+D:\baitap\Mang2Chieu\bin\Debug\netcoreapp3.1\Mang2Chieu.runtimeconfig.json
+D:\baitap\Mang2Chieu\bin\Debug\netcoreapp3.1\Mang2Chieu.runtimeconfig.dev.json
+D:\baitap\Mang2Chieu\bin\Debug\netcoreapp3.1\Mang2Chieu.dll
+D:\baitap\Mang2Chieu\bin\Debug\netcoreapp3.1\Mang2Chieu.pdb
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.csprojAssemblyReference.cache
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.AssemblyInfoInputs.cache
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.AssemblyInfo.cs
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.csproj.CoreCompileInputs.cache
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.dll
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.pdb
+D:\baitap\Mang2Chieu\obj\Debug\netcoreapp3.1\Mang2Chieu.genruntimeconfig.cache
